@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Date/Time Picker Component",
+  "name": "React Date/Time Picker Component",
   "icons": [
     {
       "src": "favicon.ico",
